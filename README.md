@@ -1,4 +1,4 @@
-# **SyncSpace.MD Chat Application** 💬🚀
+# **SyncSpace.MD (WebSocket Chat Application)**
 
 Just learned WebSocket, so I decided to make a project using it! Here's a **Chat Application** built with **Spring Boot** and **WebSocket**.
 
@@ -13,7 +13,7 @@ If you wanna try it out or use it for your own learning, just clone the repo, op
 6. **Open a new tab** in your browser and visit `localhost:8080` again to simulate multiple users chatting.
 
 ### Notes:
-I think I don’t need to explain the whole process of running a Spring Boot app, you already know that. I’ll leave the rest to you! 😎
+I think I don’t need to explain the whole process of running a Spring Boot app, you already know that. I’ll leave the rest to you! ;)
 
 If you run into any errors or problems, just let me know and I’ll try to fix them for you.
 
